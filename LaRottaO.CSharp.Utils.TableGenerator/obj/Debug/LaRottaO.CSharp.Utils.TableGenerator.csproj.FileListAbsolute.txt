@@ -1,0 +1,6 @@
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\bin\Debug\LaRottaO.CSharp.Utils.TableGenerator.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\bin\Debug\LaRottaO.CSharp.Utils.TableGenerator.pdb
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\obj\Debug\LaRottaO.CSharp.Utils.TableGenerator.csproj.AssemblyReference.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\obj\Debug\LaRottaO.CSharp.Utils.TableGenerator.csproj.CoreCompileInputs.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\obj\Debug\LaRottaO.CSharp.Utils.TableGenerator.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.TableGenerator\LaRottaO.CSharp.Utils.TableGenerator\obj\Debug\LaRottaO.CSharp.Utils.TableGenerator.pdb
